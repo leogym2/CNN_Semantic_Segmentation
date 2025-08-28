@@ -2,6 +2,7 @@
 
 This project was developed as part of a university course on Deep Learning.  
 It focuses on semantic segmentation using the CamVid dataset, which contains annotated driving scenes.  
+[Netwrok](example.png)
 
 - **Dataset**: CamVid urban driving scenes with 11 semantic classes.  
   - Training set: 367 samples  
